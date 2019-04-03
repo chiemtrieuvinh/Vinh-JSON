@@ -1,7 +1,9 @@
-[
-    {
-        "id": 1,
-        "name": "Vinh",
-        "email": "trieuvinb@gmail.com"
-    }
-]
+{
+    "post": [
+        {
+            "id": 1,
+            "name": "Vinh",
+            "email": "trieuvinb@gmail.com"
+        }
+    ]
+}
